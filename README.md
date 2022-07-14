@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/benneost/benneost/master/name.svg" alt="Benjamin Neo" />
-</h1>
+
 
 ### Hi there 👋
 
