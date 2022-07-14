@@ -2,8 +2,15 @@
 I'm Benjamin, a software engineer from Singapore.
 
 ## Now
-- 🏦 Software Engineer at DBS Bank;
+- 🏦 Software Engineer intern at DBS Bank;
 - 🏫 Penultimate Information Systems Undergraduate at SMU
+
+## Experience
+### 2021
+- 🏦 Software Engineer at OCBC Bank;
+
+### 2020
+- 👨‍💻 Web Developer at ErgoEdge;
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Java Spring Boot, Python
